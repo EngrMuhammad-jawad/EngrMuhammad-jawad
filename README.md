@@ -15,13 +15,13 @@
     <a href="mailto:jawadhusain98@gmail.com">
       <img src="https://img.shields.io/badge/Email-jawadhusain98@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/Muhammad-jawad01">
-      <img src="https://img.shields.io/badge/GitHub-Muhammad--jawad01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <a href="https://github.com/EngrMuhammad-jawad">
+      <img src="https://img.shields.io/badge/GitHub-EngrMuhammad--jawad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://linkedin.com">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Muhammad-jawad01&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=EngrMuhammad-jawad&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
   </p>
 
 </div>
@@ -106,18 +106,18 @@ motto: "Building clean, maintainable, and scalable software one commit at a time
 
   <!-- GitHub Stats & Top Languages Side by Side -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-jawad01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" height="175" alt="Jawad's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-jawad01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" height="175" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=EngrMuhammad-jawad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" height="175" alt="Jawad's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngrMuhammad-jawad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" height="175" alt="Top Languages" />
   </p>
 
   <!-- Streak Stats Card -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-jawad01&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngrMuhammad-jawad&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
   </p>
 
   <!-- Trophies -->
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-jawad01&theme=tokyonight&no-bg=true&no-frame=true&margin-w=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=EngrMuhammad-jawad&theme=tokyonight&no-bg=true&no-frame=true&margin-w=6" alt="GitHub Trophies" />
   </p>
 
 </div>
@@ -154,8 +154,8 @@ Whether you have an interesting project idea, need assistance with Laravel/PHP d
     <img src="https://img.shields.io/badge/Direct_Email-jawadhusain98%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Muhammad-jawad01">
-    <img src="https://img.shields.io/badge/GitHub_Profile-Muhammad--jawad01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/EngrMuhammad-jawad">
+    <img src="https://img.shields.io/badge/GitHub_Profile-EngrMuhammad--jawad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
